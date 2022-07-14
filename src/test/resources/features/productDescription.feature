@@ -14,7 +14,7 @@ Feature: Title of your feature
     And check more outcomes
     
      @tag2
-  Scenario: Title of your $cen@r!o
+  Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
     When I complete action
@@ -23,7 +23,7 @@ Feature: Title of your feature
     Then I validate the outcomes
     And check more outcomes
     
-     @tag3*9/2
+     @tag3
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
